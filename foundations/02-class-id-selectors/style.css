@@ -1,0 +1,20 @@
+.same {
+    background-color: #f39bfb;
+    font-family: Verdana, 'DehaVu Sans', sans-serif;
+}
+
+#even1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+#even2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
